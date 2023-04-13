@@ -29,8 +29,13 @@
     border: 1px dashed black;
 }
 
+.header{
+    text-align: right;
+}
+
 .col-60{
     width: 60%;
+    text-align: center;
     padding: 10px 0;
     border: 1px dashed black;
 }
@@ -181,5 +186,4 @@
     background-color: lightcoral;
     text-align: center;
 }
-
 /* FINE FOOTER */
