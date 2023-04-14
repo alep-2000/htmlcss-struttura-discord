@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* HEADER */
 .section-1{
     width: 100%;
@@ -20,7 +24,6 @@
     display: flex;
     margin: 10px 0;
     background-color: rgb(248, 192, 6);
-    font-family: 'Open Sans', sans-serif;
 }
 
 .col-20{
@@ -186,6 +189,5 @@
     border: 1px dashed black;
     background-color: lightcoral;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
 }
 /* FINE FOOTER */
